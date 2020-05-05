@@ -1,0 +1,3 @@
+﻿  Player.cpp
+C:\Users\hampt\source\repos\Player\Player\Player.cpp(14,27): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Player.vcxproj -> C:\Users\hampt\source\repos\Player\Debug\Player.exe

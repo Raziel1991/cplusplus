@@ -1,0 +1,4 @@
+﻿  PlayerMethod.cpp
+  Player.cpp
+C:\Users\hampt\source\repos\Player\Player\Player.cpp(6,87): error C2397: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\hampt\source\repos\Player\Player\Player.cpp(53,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
